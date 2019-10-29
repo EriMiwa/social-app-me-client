@@ -1,8 +1,8 @@
 ## 📖Overview
-
+	in production
 
 ## 💻skill I used
-HTML / CSS / React / XML / Yelp API
+
 
 ## 📅the purpose of this project
 
